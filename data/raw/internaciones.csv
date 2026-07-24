@@ -1,0 +1,251 @@
+ID_INTERNACION,CHIST,FECHA_INGRESO,FECHA_EGRESO,DIAGNOSTICO,ESTADO
+1001,100000,2020-01-01,2020-02-01,Esquizofrenia,Inactiva
+1201,100000,2022-09-05,,Esquizofrenia,Activa
+1002,100001,2020-02-02,2020-03-02,Trastorno Bipolar,Inactiva
+1202,100001,2022-10-06,,Trastorno Bipolar,Activa
+1003,100002,2020-03-03,2020-04-03,Depresión Severa,Inactiva
+1203,100002,2022-11-07,,Depresión Severa,Activa
+1004,100003,2020-04-04,2020-05-04,Ansiedad Generalizada,Inactiva
+1204,100003,2022-12-08,,Ansiedad Generalizada,Activa
+1005,100004,2020-05-05,2020-06-05,Trastorno de Personalidad,Inactiva
+1205,100004,2022-01-09,,Trastorno de Personalidad,Activa
+1006,100005,2020-06-06,2020-07-06,Esquizofrenia,Inactiva
+1206,100005,2022-02-10,,Esquizofrenia,Activa
+1007,100006,2020-07-07,2020-08-07,Trastorno Bipolar,Inactiva
+1207,100006,2022-03-11,,Trastorno Bipolar,Activa
+1008,100007,2020-08-08,2020-09-08,Depresión Severa,Inactiva
+1208,100007,2022-04-12,,Depresión Severa,Activa
+1009,100008,2020-09-09,2020-10-09,Ansiedad Generalizada,Inactiva
+1209,100008,2022-05-13,,Ansiedad Generalizada,Activa
+1010,100009,2020-10-10,2020-11-10,Trastorno de Personalidad,Inactiva
+1210,100009,2022-06-14,,Trastorno de Personalidad,Activa
+1011,100010,2020-11-11,2020-12-11,Esquizofrenia,Inactiva
+1211,100010,2022-07-15,,Esquizofrenia,Activa
+1012,100011,2020-12-12,2021-01-12,Trastorno Bipolar,Inactiva
+1212,100011,2022-08-16,,Trastorno Bipolar,Activa
+1013,100012,2020-01-13,2020-02-13,Depresión Severa,Inactiva
+1213,100012,2022-09-17,,Depresión Severa,Activa
+1014,100013,2020-02-14,2020-03-14,Ansiedad Generalizada,Inactiva
+1214,100013,2022-10-18,,Ansiedad Generalizada,Activa
+1015,100014,2020-03-15,2020-04-15,Trastorno de Personalidad,Inactiva
+1215,100014,2022-11-19,,Trastorno de Personalidad,Activa
+1016,100015,2020-04-16,2020-05-16,Esquizofrenia,Inactiva
+1216,100015,2022-12-20,,Esquizofrenia,Activa
+1017,100016,2020-05-17,2020-06-17,Trastorno Bipolar,Inactiva
+1217,100016,2022-01-21,,Trastorno Bipolar,Activa
+1018,100017,2020-06-18,2020-07-18,Depresión Severa,Inactiva
+1218,100017,2022-02-22,,Depresión Severa,Activa
+1019,100018,2020-07-19,2020-08-19,Ansiedad Generalizada,Inactiva
+1219,100018,2022-03-23,,Ansiedad Generalizada,Activa
+1020,100019,2020-08-20,2020-09-20,Trastorno de Personalidad,Inactiva
+1220,100019,2022-04-24,,Trastorno de Personalidad,Activa
+1021,100020,2020-09-21,2020-10-21,Esquizofrenia,Inactiva
+1221,100020,2022-05-25,,Esquizofrenia,Activa
+1022,100021,2020-10-22,2020-11-22,Trastorno Bipolar,Inactiva
+1222,100021,2022-06-26,,Trastorno Bipolar,Activa
+1023,100022,2020-11-23,2020-12-23,Depresión Severa,Inactiva
+1223,100022,2022-07-27,,Depresión Severa,Activa
+1024,100023,2020-12-24,2021-01-24,Ansiedad Generalizada,Inactiva
+1224,100023,2022-08-28,,Ansiedad Generalizada,Activa
+1025,100024,2020-01-25,2020-02-25,Trastorno de Personalidad,Inactiva
+1225,100024,2022-09-01,,Trastorno de Personalidad,Activa
+1026,100025,2020-02-26,2020-03-26,Esquizofrenia,Inactiva
+1226,100025,2022-10-02,,Esquizofrenia,Activa
+1027,100026,2020-03-27,2020-04-27,Trastorno Bipolar,Inactiva
+1227,100026,2022-11-03,,Trastorno Bipolar,Activa
+1028,100027,2020-04-28,2020-05-28,Depresión Severa,Inactiva
+1228,100027,2022-12-04,,Depresión Severa,Activa
+1029,100028,2020-05-01,2020-06-01,Ansiedad Generalizada,Inactiva
+1229,100028,2022-01-05,,Ansiedad Generalizada,Activa
+1030,100029,2020-06-02,2020-07-02,Trastorno de Personalidad,Inactiva
+1230,100029,2022-02-06,,Trastorno de Personalidad,Activa
+1031,100030,2020-07-03,2020-08-03,Esquizofrenia,Inactiva
+1231,100030,2022-03-07,,Esquizofrenia,Activa
+1032,100031,2020-08-04,2020-09-04,Trastorno Bipolar,Inactiva
+1232,100031,2022-04-08,,Trastorno Bipolar,Activa
+1033,100032,2020-09-05,2020-10-05,Depresión Severa,Inactiva
+1233,100032,2022-05-09,,Depresión Severa,Activa
+1034,100033,2020-10-06,2020-11-06,Ansiedad Generalizada,Inactiva
+1234,100033,2022-06-10,,Ansiedad Generalizada,Activa
+1035,100034,2020-11-07,2020-12-07,Trastorno de Personalidad,Inactiva
+1235,100034,2022-07-11,,Trastorno de Personalidad,Activa
+1036,100035,2020-12-08,2021-01-08,Esquizofrenia,Inactiva
+1236,100035,2022-08-12,,Esquizofrenia,Activa
+1037,100036,2020-01-09,2020-02-09,Trastorno Bipolar,Inactiva
+1237,100036,2022-09-13,,Trastorno Bipolar,Activa
+1038,100037,2020-02-10,2020-03-10,Depresión Severa,Inactiva
+1238,100037,2022-10-14,,Depresión Severa,Activa
+1039,100038,2020-03-11,2020-04-11,Ansiedad Generalizada,Inactiva
+1239,100038,2022-11-15,,Ansiedad Generalizada,Activa
+1040,100039,2020-04-12,2020-05-12,Trastorno de Personalidad,Inactiva
+1240,100039,2022-12-16,,Trastorno de Personalidad,Activa
+1041,100040,2020-05-13,2020-06-13,Esquizofrenia,Inactiva
+1241,100040,2022-01-17,,Esquizofrenia,Activa
+1042,100041,2020-06-14,2020-07-14,Trastorno Bipolar,Inactiva
+1242,100041,2022-02-18,,Trastorno Bipolar,Activa
+1043,100042,2020-07-15,2020-08-15,Depresión Severa,Inactiva
+1243,100042,2022-03-19,,Depresión Severa,Activa
+1044,100043,2020-08-16,2020-09-16,Ansiedad Generalizada,Inactiva
+1244,100043,2022-04-20,,Ansiedad Generalizada,Activa
+1045,100044,2020-09-17,2020-10-17,Trastorno de Personalidad,Inactiva
+1245,100044,2022-05-21,,Trastorno de Personalidad,Activa
+1046,100045,2020-10-18,2020-11-18,Esquizofrenia,Inactiva
+1246,100045,2022-06-22,,Esquizofrenia,Activa
+1047,100046,2020-11-19,2020-12-19,Trastorno Bipolar,Inactiva
+1247,100046,2022-07-23,,Trastorno Bipolar,Activa
+1048,100047,2020-12-20,2021-01-20,Depresión Severa,Inactiva
+1248,100047,2022-08-24,,Depresión Severa,Activa
+1049,100048,2020-01-21,2020-02-21,Ansiedad Generalizada,Inactiva
+1249,100048,2022-09-25,,Ansiedad Generalizada,Activa
+1050,100049,2020-02-22,2020-03-22,Trastorno de Personalidad,Inactiva
+1250,100049,2022-10-26,,Trastorno de Personalidad,Activa
+1051,100050,2020-03-23,2020-04-23,Esquizofrenia,Inactiva
+1052,100051,2020-04-24,2020-05-24,Trastorno Bipolar,Inactiva
+1053,100052,2020-05-25,2020-06-25,Depresión Severa,Inactiva
+1054,100053,2020-06-26,2020-07-26,Ansiedad Generalizada,Inactiva
+1055,100054,2020-07-27,2020-08-27,Trastorno de Personalidad,Inactiva
+1056,100055,2020-08-28,2020-09-28,Esquizofrenia,Inactiva
+1057,100056,2020-09-01,2020-10-01,Trastorno Bipolar,Inactiva
+1058,100057,2020-10-02,2020-11-02,Depresión Severa,Inactiva
+1059,100058,2020-11-03,2020-12-03,Ansiedad Generalizada,Inactiva
+1060,100059,2020-12-04,2021-01-04,Trastorno de Personalidad,Inactiva
+1061,100060,2020-01-05,2020-02-05,Esquizofrenia,Inactiva
+1062,100061,2020-02-06,2020-03-06,Trastorno Bipolar,Inactiva
+1063,100062,2020-03-07,2020-04-07,Depresión Severa,Inactiva
+1064,100063,2020-04-08,2020-05-08,Ansiedad Generalizada,Inactiva
+1065,100064,2020-05-09,2020-06-09,Trastorno de Personalidad,Inactiva
+1066,100065,2020-06-10,2020-07-10,Esquizofrenia,Inactiva
+1067,100066,2020-07-11,2020-08-11,Trastorno Bipolar,Inactiva
+1068,100067,2020-08-12,2020-09-12,Depresión Severa,Inactiva
+1069,100068,2020-09-13,2020-10-13,Ansiedad Generalizada,Inactiva
+1070,100069,2020-10-14,2020-11-14,Trastorno de Personalidad,Inactiva
+1071,100070,2020-11-15,2020-12-15,Esquizofrenia,Inactiva
+1072,100071,2020-12-16,2021-01-16,Trastorno Bipolar,Inactiva
+1073,100072,2020-01-17,2020-02-17,Depresión Severa,Inactiva
+1074,100073,2020-02-18,2020-03-18,Ansiedad Generalizada,Inactiva
+1075,100074,2020-03-19,2020-04-19,Trastorno de Personalidad,Inactiva
+1076,100075,2020-04-20,2020-05-20,Esquizofrenia,Inactiva
+1077,100076,2020-05-21,2020-06-21,Trastorno Bipolar,Inactiva
+1078,100077,2020-06-22,2020-07-22,Depresión Severa,Inactiva
+1079,100078,2020-07-23,2020-08-23,Ansiedad Generalizada,Inactiva
+1080,100079,2020-08-24,2020-09-24,Trastorno de Personalidad,Inactiva
+1081,100080,2020-09-25,2020-10-25,Esquizofrenia,Inactiva
+1082,100081,2020-10-26,2020-11-26,Trastorno Bipolar,Inactiva
+1083,100082,2020-11-27,2020-12-27,Depresión Severa,Inactiva
+1084,100083,2020-12-28,2021-01-28,Ansiedad Generalizada,Inactiva
+1085,100084,2020-01-01,2020-02-01,Trastorno de Personalidad,Inactiva
+1086,100085,2020-02-02,2020-03-02,Esquizofrenia,Inactiva
+1087,100086,2020-03-03,2020-04-03,Trastorno Bipolar,Inactiva
+1088,100087,2020-04-04,2020-05-04,Depresión Severa,Inactiva
+1089,100088,2020-05-05,2020-06-05,Ansiedad Generalizada,Inactiva
+1090,100089,2020-06-06,2020-07-06,Trastorno de Personalidad,Inactiva
+1091,100090,2020-07-07,2020-08-07,Esquizofrenia,Inactiva
+1092,100091,2020-08-08,2020-09-08,Trastorno Bipolar,Inactiva
+1093,100092,2020-09-09,2020-10-09,Depresión Severa,Inactiva
+1094,100093,2020-10-10,2020-11-10,Ansiedad Generalizada,Inactiva
+1095,100094,2020-11-11,2020-12-11,Trastorno de Personalidad,Inactiva
+1096,100095,2020-12-12,2021-01-12,Esquizofrenia,Inactiva
+1097,100096,2020-01-13,2020-02-13,Trastorno Bipolar,Inactiva
+1098,100097,2020-02-14,2020-03-14,Depresión Severa,Inactiva
+1099,100098,2020-03-15,2020-04-15,Ansiedad Generalizada,Inactiva
+1100,100099,2020-04-16,2020-05-16,Trastorno de Personalidad,Inactiva
+1101,100100,2021-05-17,2021-06-17,Esquizofrenia,Inactiva
+1102,100101,2021-06-18,2021-07-18,Trastorno Bipolar,Inactiva
+1103,100102,2021-07-19,2021-08-19,Depresión Severa,Inactiva
+1104,100103,2021-08-20,2021-09-20,Ansiedad Generalizada,Inactiva
+1105,100104,2021-09-21,2021-10-21,Trastorno de Personalidad,Inactiva
+1106,100105,2021-10-22,2021-11-22,Esquizofrenia,Inactiva
+1107,100106,2021-11-23,2021-12-23,Trastorno Bipolar,Inactiva
+1108,100107,2021-12-24,2022-01-24,Depresión Severa,Inactiva
+1109,100108,2021-01-25,2021-02-25,Ansiedad Generalizada,Inactiva
+1110,100109,2021-02-26,2021-03-26,Trastorno de Personalidad,Inactiva
+1111,100110,2021-03-27,2021-04-27,Esquizofrenia,Inactiva
+1112,100111,2021-04-28,2021-05-28,Trastorno Bipolar,Inactiva
+1113,100112,2021-05-01,2021-06-01,Depresión Severa,Inactiva
+1114,100113,2021-06-02,2021-07-02,Ansiedad Generalizada,Inactiva
+1115,100114,2021-07-03,2021-08-03,Trastorno de Personalidad,Inactiva
+1116,100115,2021-08-04,2021-09-04,Esquizofrenia,Inactiva
+1117,100116,2021-09-05,2021-10-05,Trastorno Bipolar,Inactiva
+1118,100117,2021-10-06,2021-11-06,Depresión Severa,Inactiva
+1119,100118,2021-11-07,2021-12-07,Ansiedad Generalizada,Inactiva
+1120,100119,2021-12-08,2022-01-08,Trastorno de Personalidad,Inactiva
+1121,100120,2021-01-09,2021-02-09,Esquizofrenia,Inactiva
+1122,100121,2021-02-10,2021-03-10,Trastorno Bipolar,Inactiva
+1123,100122,2021-03-11,2021-04-11,Depresión Severa,Inactiva
+1124,100123,2021-04-12,2021-05-12,Ansiedad Generalizada,Inactiva
+1125,100124,2021-05-13,2021-06-13,Trastorno de Personalidad,Inactiva
+1126,100125,2021-06-14,2021-07-14,Esquizofrenia,Inactiva
+1127,100126,2021-07-15,2021-08-15,Trastorno Bipolar,Inactiva
+1128,100127,2021-08-16,2021-09-16,Depresión Severa,Inactiva
+1129,100128,2021-09-17,2021-10-17,Ansiedad Generalizada,Inactiva
+1130,100129,2021-10-18,2021-11-18,Trastorno de Personalidad,Inactiva
+1131,100130,2021-11-19,2021-12-19,Esquizofrenia,Inactiva
+1132,100131,2021-12-20,2022-01-20,Trastorno Bipolar,Inactiva
+1133,100132,2021-01-21,2021-02-21,Depresión Severa,Inactiva
+1134,100133,2021-02-22,2021-03-22,Ansiedad Generalizada,Inactiva
+1135,100134,2021-03-23,2021-04-23,Trastorno de Personalidad,Inactiva
+1136,100135,2021-04-24,2021-05-24,Esquizofrenia,Inactiva
+1137,100136,2021-05-25,2021-06-25,Trastorno Bipolar,Inactiva
+1138,100137,2021-06-26,2021-07-26,Depresión Severa,Inactiva
+1139,100138,2021-07-27,2021-08-27,Ansiedad Generalizada,Inactiva
+1140,100139,2021-08-28,2021-09-28,Trastorno de Personalidad,Inactiva
+1141,100140,2021-09-01,2021-10-01,Esquizofrenia,Inactiva
+1142,100141,2021-10-02,2021-11-02,Trastorno Bipolar,Inactiva
+1143,100142,2021-11-03,2021-12-03,Depresión Severa,Inactiva
+1144,100143,2021-12-04,2022-01-04,Ansiedad Generalizada,Inactiva
+1145,100144,2021-01-05,2021-02-05,Trastorno de Personalidad,Inactiva
+1146,100145,2021-02-06,2021-03-06,Esquizofrenia,Inactiva
+1147,100146,2021-03-07,2021-04-07,Trastorno Bipolar,Inactiva
+1148,100147,2021-04-08,2021-05-08,Depresión Severa,Inactiva
+1149,100148,2021-05-09,2021-06-09,Ansiedad Generalizada,Inactiva
+1150,100149,2021-06-10,2021-07-10,Trastorno de Personalidad,Inactiva
+1151,100150,2021-07-11,2021-08-11,Esquizofrenia,Inactiva
+1152,100151,2021-08-12,2021-09-12,Trastorno Bipolar,Inactiva
+1153,100152,2021-09-13,2021-10-13,Depresión Severa,Inactiva
+1154,100153,2021-10-14,2021-11-14,Ansiedad Generalizada,Inactiva
+1155,100154,2021-11-15,2021-12-15,Trastorno de Personalidad,Inactiva
+1156,100155,2021-12-16,2022-01-16,Esquizofrenia,Inactiva
+1157,100156,2021-01-17,2021-02-17,Trastorno Bipolar,Inactiva
+1158,100157,2021-02-18,2021-03-18,Depresión Severa,Inactiva
+1159,100158,2021-03-19,2021-04-19,Ansiedad Generalizada,Inactiva
+1160,100159,2021-04-20,2021-05-20,Trastorno de Personalidad,Inactiva
+1161,100160,2021-05-21,2021-06-21,Esquizofrenia,Inactiva
+1162,100161,2021-06-22,2021-07-22,Trastorno Bipolar,Inactiva
+1163,100162,2021-07-23,2021-08-23,Depresión Severa,Inactiva
+1164,100163,2021-08-24,2021-09-24,Ansiedad Generalizada,Inactiva
+1165,100164,2021-09-25,2021-10-25,Trastorno de Personalidad,Inactiva
+1166,100165,2021-10-26,2021-11-26,Esquizofrenia,Inactiva
+1167,100166,2021-11-27,2021-12-27,Trastorno Bipolar,Inactiva
+1168,100167,2021-12-28,2022-01-28,Depresión Severa,Inactiva
+1169,100168,2021-01-01,2021-02-01,Ansiedad Generalizada,Inactiva
+1170,100169,2021-02-02,2021-03-02,Trastorno de Personalidad,Inactiva
+1171,100170,2021-03-03,2021-04-03,Esquizofrenia,Inactiva
+1172,100171,2021-04-04,2021-05-04,Trastorno Bipolar,Inactiva
+1173,100172,2021-05-05,2021-06-05,Depresión Severa,Inactiva
+1174,100173,2021-06-06,2021-07-06,Ansiedad Generalizada,Inactiva
+1175,100174,2021-07-07,2021-08-07,Trastorno de Personalidad,Inactiva
+1176,100175,2021-08-08,2021-09-08,Esquizofrenia,Inactiva
+1177,100176,2021-09-09,2021-10-09,Trastorno Bipolar,Inactiva
+1178,100177,2021-10-10,2021-11-10,Depresión Severa,Inactiva
+1179,100178,2021-11-11,2021-12-11,Ansiedad Generalizada,Inactiva
+1180,100179,2021-12-12,2022-01-12,Trastorno de Personalidad,Inactiva
+1181,100180,2021-01-13,2021-02-13,Esquizofrenia,Inactiva
+1182,100181,2021-02-14,2021-03-14,Trastorno Bipolar,Inactiva
+1183,100182,2021-03-15,2021-04-15,Depresión Severa,Inactiva
+1184,100183,2021-04-16,2021-05-16,Ansiedad Generalizada,Inactiva
+1185,100184,2021-05-17,2021-06-17,Trastorno de Personalidad,Inactiva
+1186,100185,2021-06-18,2021-07-18,Esquizofrenia,Inactiva
+1187,100186,2021-07-19,2021-08-19,Trastorno Bipolar,Inactiva
+1188,100187,2021-08-20,2021-09-20,Depresión Severa,Inactiva
+1189,100188,2021-09-21,2021-10-21,Ansiedad Generalizada,Inactiva
+1190,100189,2021-10-22,2021-11-22,Trastorno de Personalidad,Inactiva
+1191,100190,2021-11-23,2021-12-23,Esquizofrenia,Inactiva
+1192,100191,2021-12-24,2022-01-24,Trastorno Bipolar,Inactiva
+1193,100192,2021-01-25,2021-02-25,Depresión Severa,Inactiva
+1194,100193,2021-02-26,2021-03-26,Ansiedad Generalizada,Inactiva
+1195,100194,2021-03-27,2021-04-27,Trastorno de Personalidad,Inactiva
+1196,100195,2021-04-28,2021-05-28,Esquizofrenia,Inactiva
+1197,100196,2021-05-01,2021-06-01,Trastorno Bipolar,Inactiva
+1198,100197,2021-06-02,2021-07-02,Depresión Severa,Inactiva
+1199,100198,2021-07-03,2021-08-03,Ansiedad Generalizada,Inactiva
+1200,100199,2021-08-04,2021-09-04,Trastorno de Personalidad,Inactiva

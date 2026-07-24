@@ -1,0 +1,201 @@
+CHIST,APELLIDO,NOMBRE,NDOC,FENAC,SEXO,LOCALIDAD,ESTADO_CIVIL
+100000,Fernandez,Ana,13778088,1947-02-13,F,Mendoza,Divorciado/a
+100001,Martinez,Sofia,16600378,1995-02-03,F,La Plata,Viudo/a
+100002,Sanchez,Maria,27172977,1983-12-16,M,La Plata,Soltero/a
+100003,Gonzalez,Carlos,10586391,1971-07-05,M,Rosario,Soltero/a
+100004,Lopez,Diego,34243693,1966-10-12,F,Rosario,Casado/a
+100005,Lopez,Laura,12820542,1981-03-03,M,Mendoza,Casado/a
+100006,Sanchez,Carlos,22212403,1974-12-08,M,Rosario,Divorciado/a
+100007,Sanchez,Marta,18652776,1958-08-24,F,Cordoba,Viudo/a
+100008,Sanchez,Pedro,38317081,1959-07-16,F,Mendoza,Viudo/a
+100009,Lopez,Diego,28995257,2003-06-16,F,La Plata,Casado/a
+100010,Sosa,Laura,24646969,1988-05-25,M,Cordoba,Viudo/a
+100011,Lopez,Laura,44013622,1953-08-26,M,CABA,Casado/a
+100012,Perez,Luis,36043734,1941-03-19,M,Rosario,Viudo/a
+100013,Garcia,Marta,19565398,1997-01-04,F,CABA,Viudo/a
+100014,Lopez,Pedro,18123164,2005-04-04,F,CABA,Soltero/a
+100015,Garcia,Sofia,35028732,1986-01-20,M,La Plata,Divorciado/a
+100016,Perez,Pedro,16820899,1996-12-11,M,Cordoba,Divorciado/a
+100017,Sanchez,Juan,30342096,1956-05-01,M,CABA,Divorciado/a
+100018,Sosa,Juan,19192322,1984-12-08,M,Mendoza,Viudo/a
+100019,Sanchez,Maria,10533584,2003-12-25,M,Cordoba,Soltero/a
+100020,Lopez,Sofia,20289405,1976-11-09,F,La Plata,Divorciado/a
+100021,Romero,Maria,18005350,2000-02-17,M,Mendoza,Casado/a
+100022,Fernandez,Ana,26443519,1975-08-27,M,La Plata,Viudo/a
+100023,Romero,Juan,16838500,1996-10-14,M,CABA,Viudo/a
+100024,Gonzalez,Maria,39459719,1957-11-07,M,Mendoza,Viudo/a
+100025,Lopez,Sofia,13863836,1977-05-21,F,CABA,Casado/a
+100026,Romero,Luis,40691147,1940-10-03,M,Mendoza,Soltero/a
+100027,Martinez,Marta,25406479,1955-03-06,F,Mendoza,Soltero/a
+100028,Sosa,Maria,32437450,1956-03-17,F,Cordoba,Divorciado/a
+100029,Garcia,Pedro,10144172,1946-04-20,M,Rosario,Divorciado/a
+100030,Fernandez,Sofia,36183412,1974-04-05,F,Cordoba,Viudo/a
+100031,Lopez,Carlos,26340746,1944-06-17,M,La Plata,Viudo/a
+100032,Sosa,Luis,22057854,1952-01-22,M,Cordoba,Viudo/a
+100033,Garcia,Sofia,43733202,1949-04-04,F,La Plata,Casado/a
+100034,Romero,Laura,24101783,2000-01-13,M,La Plata,Divorciado/a
+100035,Sosa,Ana,27202745,1956-04-19,F,La Plata,Viudo/a
+100036,Lopez,Luis,41151937,1976-01-21,M,La Plata,Divorciado/a
+100037,Lopez,Carlos,33170870,1964-05-15,M,Rosario,Viudo/a
+100038,Lopez,Marta,38893810,1945-02-23,F,CABA,Soltero/a
+100039,Fernandez,Laura,27789704,1955-12-01,F,Rosario,Viudo/a
+100040,Romero,Carlos,25048634,1974-08-18,M,Rosario,Soltero/a
+100041,Garcia,Diego,14784053,1984-08-02,M,Cordoba,Viudo/a
+100042,Perez,Sofia,10222977,1974-06-23,F,La Plata,Casado/a
+100043,Perez,Sofia,14328008,1942-05-17,M,CABA,Soltero/a
+100044,Sosa,Juan,32268129,1972-03-09,M,La Plata,Divorciado/a
+100045,Martinez,Pedro,43163191,1966-06-02,F,CABA,Viudo/a
+100046,Rodriguez,Maria,23529243,2002-05-01,M,La Plata,Soltero/a
+100047,Rodriguez,Maria,21084604,1950-03-07,M,La Plata,Viudo/a
+100048,Sosa,Sofia,24180657,1998-06-10,M,La Plata,Divorciado/a
+100049,Sosa,Pedro,34713897,1952-07-08,M,Cordoba,Viudo/a
+100050,Perez,Juan,40372545,2005-11-22,M,Rosario,Viudo/a
+100051,Lopez,Pedro,28663188,1955-12-12,F,Cordoba,Divorciado/a
+100052,Perez,Ana,19693301,1992-07-22,M,Cordoba,Viudo/a
+100053,Martinez,Maria,20764704,2002-06-11,M,Mendoza,Viudo/a
+100054,Garcia,Diego,30879122,1983-08-26,F,La Plata,Casado/a
+100055,Gonzalez,Maria,26235439,1965-05-03,M,La Plata,Viudo/a
+100056,Sanchez,Maria,21784063,1954-02-06,F,Rosario,Divorciado/a
+100057,Martinez,Carlos,43679885,1993-04-19,F,Cordoba,Soltero/a
+100058,Sanchez,Diego,14726615,1960-04-09,M,Mendoza,Soltero/a
+100059,Romero,Pedro,34659633,1985-03-04,F,Mendoza,Soltero/a
+100060,Lopez,Marta,43928102,2000-02-12,F,Mendoza,Divorciado/a
+100061,Perez,Carlos,20612815,1940-05-08,M,Cordoba,Viudo/a
+100062,Sosa,Pedro,34188936,1948-11-12,M,Rosario,Casado/a
+100063,Sanchez,Pedro,18859912,1967-07-06,F,La Plata,Casado/a
+100064,Lopez,Juan,31155387,1982-01-17,F,La Plata,Soltero/a
+100065,Garcia,Marta,24940647,1973-07-08,M,Cordoba,Divorciado/a
+100066,Garcia,Maria,37815564,1950-12-02,M,Rosario,Viudo/a
+100067,Rodriguez,Carlos,25979108,1943-05-10,F,Rosario,Casado/a
+100068,Lopez,Luis,27642049,1995-01-14,F,Mendoza,Casado/a
+100069,Garcia,Juan,35045009,1985-02-04,M,Rosario,Viudo/a
+100070,Sanchez,Carlos,16342426,1958-05-27,F,Rosario,Viudo/a
+100071,Romero,Sofia,30676433,1980-04-04,F,La Plata,Casado/a
+100072,Lopez,Carlos,35369604,1982-09-12,F,La Plata,Soltero/a
+100073,Gonzalez,Maria,33946317,1983-09-25,M,La Plata,Divorciado/a
+100074,Perez,Carlos,33422699,1964-11-14,M,Rosario,Viudo/a
+100075,Garcia,Juan,35518492,1972-11-24,F,La Plata,Casado/a
+100076,Perez,Marta,31486766,1958-09-23,M,Rosario,Casado/a
+100077,Fernandez,Luis,41360725,2004-01-10,M,La Plata,Divorciado/a
+100078,Lopez,Diego,27725831,1960-04-24,M,Rosario,Divorciado/a
+100079,Martinez,Luis,42707975,1954-12-17,M,Cordoba,Soltero/a
+100080,Garcia,Ana,30577942,1969-02-12,M,Rosario,Casado/a
+100081,Martinez,Laura,17029069,1998-07-03,M,Rosario,Viudo/a
+100082,Gonzalez,Ana,44881833,1942-02-24,F,Cordoba,Casado/a
+100083,Gonzalez,Maria,13409018,1961-06-24,M,Cordoba,Soltero/a
+100084,Romero,Carlos,27080536,1993-07-06,F,Mendoza,Soltero/a
+100085,Lopez,Laura,15666157,2000-08-10,M,La Plata,Divorciado/a
+100086,Sanchez,Carlos,17645284,1977-07-02,M,CABA,Divorciado/a
+100087,Sanchez,Luis,42661663,1963-09-18,F,Cordoba,Divorciado/a
+100088,Sosa,Marta,27600084,1997-03-07,M,Mendoza,Viudo/a
+100089,Perez,Diego,29596532,1987-10-25,M,Cordoba,Viudo/a
+100090,Lopez,Pedro,20519788,2005-05-12,M,Mendoza,Divorciado/a
+100091,Fernandez,Maria,36329917,1970-04-13,F,Rosario,Divorciado/a
+100092,Lopez,Sofia,27847779,1999-08-14,F,CABA,Viudo/a
+100093,Perez,Carlos,20079365,1994-04-05,M,Cordoba,Viudo/a
+100094,Martinez,Pedro,10918477,1963-09-27,F,Mendoza,Divorciado/a
+100095,Garcia,Marta,31698923,1999-05-03,F,La Plata,Casado/a
+100096,Garcia,Pedro,34369317,1956-08-14,M,Cordoba,Divorciado/a
+100097,Fernandez,Marta,37480415,1994-06-04,F,Rosario,Viudo/a
+100098,Fernandez,Juan,27739984,1969-01-24,F,Cordoba,Casado/a
+100099,Lopez,Pedro,25226277,1985-05-24,F,Cordoba,Viudo/a
+100100,Sosa,Maria,27147043,1998-09-12,F,Rosario,Soltero/a
+100101,Sosa,Ana,23822996,1965-09-28,M,Cordoba,Divorciado/a
+100102,Martinez,Diego,20011666,2003-05-15,F,Mendoza,Soltero/a
+100103,Rodriguez,Marta,19561033,1968-01-10,M,CABA,Viudo/a
+100104,Martinez,Laura,15539259,1954-09-12,F,Mendoza,Soltero/a
+100105,Sosa,Maria,33842685,1997-04-17,M,CABA,Divorciado/a
+100106,Rodriguez,Sofia,27993143,2004-04-13,F,La Plata,Soltero/a
+100107,Rodriguez,Diego,12271005,1946-05-11,F,Cordoba,Viudo/a
+100108,Romero,Luis,41871098,1974-03-18,F,Cordoba,Soltero/a
+100109,Sosa,Sofia,37482008,1942-03-20,F,La Plata,Viudo/a
+100110,Perez,Luis,36843121,1993-09-13,M,Rosario,Viudo/a
+100111,Sosa,Laura,20764937,1941-10-28,F,La Plata,Viudo/a
+100112,Garcia,Laura,44310729,1960-04-06,M,Cordoba,Soltero/a
+100113,Lopez,Pedro,22791649,1968-06-13,F,Cordoba,Viudo/a
+100114,Sosa,Marta,33631248,2003-01-27,F,La Plata,Soltero/a
+100115,Lopez,Pedro,11660700,1979-04-14,F,Rosario,Casado/a
+100116,Martinez,Juan,43452738,1968-08-04,M,Mendoza,Divorciado/a
+100117,Gonzalez,Marta,28453696,1995-06-22,F,Cordoba,Soltero/a
+100118,Lopez,Diego,37124114,1975-01-26,M,La Plata,Soltero/a
+100119,Fernandez,Ana,38334142,1950-05-07,M,Rosario,Divorciado/a
+100120,Sanchez,Pedro,30287365,1975-11-24,F,CABA,Soltero/a
+100121,Sosa,Laura,24610277,1960-07-05,F,CABA,Casado/a
+100122,Sanchez,Sofia,41390839,1968-03-20,F,La Plata,Casado/a
+100123,Gonzalez,Maria,27585289,2000-09-01,F,La Plata,Soltero/a
+100124,Sanchez,Luis,21959865,1983-04-02,F,La Plata,Casado/a
+100125,Garcia,Carlos,39367398,1986-08-07,M,Cordoba,Divorciado/a
+100126,Martinez,Carlos,43858536,1960-06-05,M,Cordoba,Divorciado/a
+100127,Rodriguez,Ana,30279562,1961-12-07,F,Rosario,Divorciado/a
+100128,Garcia,Ana,25918590,2001-02-17,F,CABA,Soltero/a
+100129,Garcia,Carlos,21249116,1961-07-11,M,Mendoza,Viudo/a
+100130,Sanchez,Carlos,21001731,1987-07-21,M,Mendoza,Viudo/a
+100131,Martinez,Luis,41461284,1979-06-20,M,Cordoba,Casado/a
+100132,Lopez,Maria,17713480,1961-11-07,M,Cordoba,Casado/a
+100133,Martinez,Carlos,30001197,1987-12-16,F,Cordoba,Divorciado/a
+100134,Gonzalez,Diego,25372241,1995-08-23,M,Cordoba,Divorciado/a
+100135,Romero,Diego,37795146,2004-02-16,F,CABA,Divorciado/a
+100136,Martinez,Laura,22838504,1952-11-24,F,Cordoba,Divorciado/a
+100137,Rodriguez,Diego,14486129,1961-05-09,F,La Plata,Soltero/a
+100138,Romero,Diego,36167244,1969-05-02,F,La Plata,Casado/a
+100139,Perez,Pedro,39268490,1957-03-10,F,Rosario,Casado/a
+100140,Sanchez,Ana,33612134,1988-07-27,F,Mendoza,Casado/a
+100141,Garcia,Juan,21972990,1940-08-01,F,CABA,Divorciado/a
+100142,Sanchez,Sofia,41993204,1990-08-09,M,Rosario,Viudo/a
+100143,Gonzalez,Diego,32883118,1995-01-28,M,Mendoza,Viudo/a
+100144,Sanchez,Pedro,13159316,2001-01-22,M,Cordoba,Divorciado/a
+100145,Gonzalez,Laura,27905813,1947-09-16,M,Mendoza,Soltero/a
+100146,Garcia,Maria,23912068,1996-12-22,F,Rosario,Casado/a
+100147,Rodriguez,Pedro,43580007,1979-09-19,F,La Plata,Casado/a
+100148,Gonzalez,Luis,30096472,1995-07-19,F,Rosario,Soltero/a
+100149,Romero,Carlos,14233242,1954-11-16,F,La Plata,Viudo/a
+100150,Sanchez,Maria,14253588,1964-07-21,F,La Plata,Casado/a
+100151,Fernandez,Pedro,31873712,2001-09-11,M,Rosario,Casado/a
+100152,Perez,Carlos,14527885,1988-06-15,F,Rosario,Casado/a
+100153,Fernandez,Maria,32599937,1967-03-10,F,Mendoza,Divorciado/a
+100154,Garcia,Laura,27043817,1955-09-08,M,Mendoza,Divorciado/a
+100155,Sanchez,Pedro,18625380,1946-06-09,F,Rosario,Soltero/a
+100156,Fernandez,Marta,38437440,1981-12-02,M,Rosario,Casado/a
+100157,Fernandez,Ana,21136789,1991-03-23,F,La Plata,Casado/a
+100158,Garcia,Ana,34234830,2002-09-04,F,Cordoba,Soltero/a
+100159,Gonzalez,Diego,15054195,1980-02-18,M,CABA,Viudo/a
+100160,Lopez,Diego,11503989,1958-05-28,F,La Plata,Divorciado/a
+100161,Lopez,Laura,30242237,1947-02-21,F,Cordoba,Viudo/a
+100162,Sanchez,Juan,38224398,1955-03-19,M,Cordoba,Divorciado/a
+100163,Sanchez,Carlos,15476731,1990-06-11,F,CABA,Soltero/a
+100164,Garcia,Laura,16781749,1994-11-28,F,Mendoza,Divorciado/a
+100165,Fernandez,Luis,33621016,1963-06-20,F,La Plata,Soltero/a
+100166,Rodriguez,Luis,15426809,1947-03-03,F,Mendoza,Soltero/a
+100167,Martinez,Luis,41372071,1978-06-18,M,Mendoza,Soltero/a
+100168,Fernandez,Juan,19568898,1983-09-27,F,La Plata,Viudo/a
+100169,Perez,Juan,10939427,1964-06-09,M,Mendoza,Divorciado/a
+100170,Fernandez,Laura,22897267,1953-10-21,M,Rosario,Soltero/a
+100171,Gonzalez,Diego,23197725,1995-07-06,F,La Plata,Viudo/a
+100172,Perez,Marta,27138214,1955-12-02,M,Rosario,Viudo/a
+100173,Sosa,Marta,27767775,1942-11-24,F,CABA,Viudo/a
+100174,Perez,Sofia,40222216,2000-09-27,M,La Plata,Viudo/a
+100175,Perez,Pedro,10927261,1986-08-19,F,La Plata,Divorciado/a
+100176,Martinez,Sofia,31822854,1985-03-16,M,CABA,Divorciado/a
+100177,Rodriguez,Pedro,37010846,1975-02-05,M,La Plata,Casado/a
+100178,Perez,Luis,32066686,1993-06-11,M,Mendoza,Viudo/a
+100179,Gonzalez,Luis,15545200,1972-01-08,F,CABA,Divorciado/a
+100180,Fernandez,Ana,25238519,1964-01-03,F,Cordoba,Soltero/a
+100181,Gonzalez,Ana,13776363,1979-03-14,F,Cordoba,Soltero/a
+100182,Lopez,Juan,42917210,1982-09-06,F,Mendoza,Viudo/a
+100183,Fernandez,Sofia,41718159,2001-10-02,M,CABA,Divorciado/a
+100184,Perez,Ana,37180042,1974-09-06,F,Cordoba,Soltero/a
+100185,Perez,Marta,12599109,1979-07-15,M,Rosario,Viudo/a
+100186,Lopez,Ana,44675049,1978-08-17,F,La Plata,Divorciado/a
+100187,Romero,Maria,26563330,1950-11-15,M,Mendoza,Soltero/a
+100188,Sosa,Carlos,33956047,1956-01-09,F,Mendoza,Soltero/a
+100189,Rodriguez,Marta,22124926,1972-01-26,F,Mendoza,Casado/a
+100190,Sanchez,Pedro,29839454,1982-08-27,F,Cordoba,Soltero/a
+100191,Sanchez,Diego,20856343,1995-07-01,M,CABA,Soltero/a
+100192,Sanchez,Pedro,27619662,1957-08-16,M,Cordoba,Divorciado/a
+100193,Martinez,Carlos,37764097,1999-02-04,M,CABA,Casado/a
+100194,Gonzalez,Marta,28074396,1957-07-20,M,Rosario,Viudo/a
+100195,Sosa,Diego,27160127,1991-07-16,M,Mendoza,Soltero/a
+100196,Martinez,Diego,44716339,1983-05-13,M,Rosario,Soltero/a
+100197,Gonzalez,Luis,37447612,1968-05-14,M,Cordoba,Casado/a
+100198,Sosa,Marta,16974626,1963-09-04,M,Mendoza,Divorciado/a
+100199,Sosa,Laura,14214853,1979-01-04,F,Rosario,Soltero/a
